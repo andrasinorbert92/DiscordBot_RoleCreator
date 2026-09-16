@@ -1,0 +1,1 @@
+A bot a működéséhez szükséges Discord-azonosítókat és üzenetadatokat csak a parancsok feldolgozásához használja. Az adatokat nem értékesíti és nem adja át harmadik félnek. A bot jelenleg nem tárol személyes adatokat tartósan.
